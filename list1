@@ -1,0 +1,2 @@
+list1=100.2865
+print(list1)
